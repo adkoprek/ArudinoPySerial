@@ -8,6 +8,6 @@ The project consists of 2 parts the Arduino Sketch `PSI.ino` and the python GUI 
   - Serial: `pip isntall pyserial`
   - The rest should be installed with your python installation 
 
-## The needed Tools are
+## The required Tools are
   - Python 3 interpreter
   - Arduino IDE
